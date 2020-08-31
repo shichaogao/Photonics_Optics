@@ -1,2 +1,2 @@
 # Photonics_Optics
-Biomedical Imaging,neuromorphic photonic signal processing,quantum photonics.
+Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photonics,optical chips.
