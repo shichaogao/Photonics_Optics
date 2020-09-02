@@ -4,7 +4,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 **Table of Contents**:
 
 - [Biophotonics](#Biophotonics)
-  - [Devices](#devices)
-- [neuromorphic photonic signal processing](#neuromorphic photonic signal processing)
-- [quantum photonics](#quantum photonics)
-- [optical chips](#optical chips)
+  - [Devices](#Devices)
+- [Neuromorphic photonic signal processing](#Neuromorphic photonic signal processing)
+- [Quantum photonics](#Quantum photonics)
+- [Optical chips](#Optical chips)
