@@ -12,5 +12,4 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
   - [Quantum photonics](#quantum photonics)
   - [Optical chips](#optical chips)
 
-
 *****************
