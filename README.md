@@ -9,6 +9,8 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
   - [Biophotonics](#Biophotonics)
     - [Devices](#Devices)
     - [Observations in vivo](#observations-in-vivo)
+    - [Algorithms](#algorithms)
+    - [Tools](#tools)
   - [Neuromorphic photonic signal processing](#neuromorphic-photonic-signal-processing)
   - [Quantum photonics](#quantum-photonics)
   - [Optical chips](#optical-chips)
@@ -19,6 +21,11 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 ### Devices
 
 ### Observations in vivo
+
+
+### Algorithms
+
+### Tools
 
 
 ## Neuromorphic photonic signal processing
