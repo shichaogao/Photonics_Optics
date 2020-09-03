@@ -35,7 +35,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 
 ### Tools
 1.[Suite2p: beyond 10,000 neurons with standard two-photon microscopy](https://www.biorxiv.org/content/10.1101/061507v2).Biorxiv.2017.06.[wiki](https://suite2p.readthedocs.io/en/latest/index.html).<br>
-2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).BioRxiv.2020.09.<br>
+2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
 
 ## Neuromorphic photonic signal processing
 
