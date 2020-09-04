@@ -34,7 +34,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 8.[Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models](https://papers.nips.cc/paper/9206-scalable-bayesian-inference-of-dendritic-voltage-via-spatiotemporal-recurrent-state-space-models).NIPS.2019.<br>
 
 ### Tools
-1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).<br>
+1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
 3.[CaImAn](https://github.com/flatironinstitute/CaImAn).[Docs](https://caiman.readthedocs.io/en/master/Overview.html).<br>
 
