@@ -39,6 +39,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
 3.[CaImAn](https://github.com/flatironinstitute/CaImAn).[Docs](https://caiman.readthedocs.io/en/master/Overview.html).<br>
 4.[MIN1PIPE](https://github.com/OtchyLab/MIN1PIPE).<br>
+5.[Widefield](https://github.com/cortex-lab/widefield).<br>
 
 
 
