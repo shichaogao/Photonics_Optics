@@ -33,7 +33,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 6.[Fast online deconvolution of calcium imaging data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005423).PLOS.2017.03.<br>
 7.[Robustness of Spike Deconvolution for Neuronal Calcium Imaging](https://www.jneurosci.org/content/38/37/7976).JNeuroscience.2018.12.<br>
 8.[Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models](https://papers.nips.cc/paper/9206-scalable-bayesian-inference-of-dendritic-voltage-via-spatiotemporal-recurrent-state-space-models).NIPS.2019.<br>
-
+9.[Neural Anatomy and Optical Microscopy (NAOMi) Simulation for evaluating calcium imaging methods](https://www.biorxiv.org/content/10.1101/726174v1).arXiv.2019.08.<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
