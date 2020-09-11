@@ -23,7 +23,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 ### Observations in vivo
 1.[Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893.full).Science.2019.04.<br>
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
-
+3.[The need for calcium imaging in nonhuman primates: New motor neuroscience and brain-machine interfaces](https://www.sciencedirect.com/science/article/pii/S0014488616302333).Experimental Neurology.2017.01.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](https://www.overleaf.com/project/5c658cc993a57c30f070b3fa).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
