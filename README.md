@@ -50,3 +50,4 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 ## Quantum photonics
 
 ## Optical chips
+1.[Two-dimensional materials for next-generation computing technologies](https://www.nature.com/articles/s41565-020-0724-3).Nat.Nanotechnol.2020.<br>
