@@ -27,6 +27,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
 3.[The need for calcium imaging in nonhuman primates: New motor neuroscience and brain-machine interfaces](https://www.sciencedirect.com/science/article/pii/S0014488616302333).Experimental Neurology.2017.01.<br>
 4.[Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted Calcium Indicator](https://www.sciencedirect.com/science/article/pii/S0896627320303986?via%3Dihub)<br>
+5.[Rapid mesoscale volumetric imaging of neural activity with synaptic resolution](https://www.nature.com/articles/s41592-020-0760-9).Nature Methods.2020.03.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](https://www.overleaf.com/project/5c658cc993a57c30f070b3fa).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
@@ -37,6 +38,22 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 7.[Robustness of Spike Deconvolution for Neuronal Calcium Imaging](https://www.jneurosci.org/content/38/37/7976).JNeuroscience.2018.12.<br>
 8.[Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models](https://papers.nips.cc/paper/9206-scalable-bayesian-inference-of-dendritic-voltage-via-spatiotemporal-recurrent-state-space-models).NIPS.2019.<br>
 9.[Neural Anatomy and Optical Microscopy (NAOMi) Simulation for evaluating calcium imaging methods](https://www.biorxiv.org/content/10.1101/726174v1).arXiv.2019.08.<br>
+10.[A computational toolbox and step-by-step tutorial for the analysis of neuronal population dynamics in calcium imaging data]（https://www.biorxiv.org/content/10.1101/103879v2).bioAxiv.2017.04.01.<br>
+11.[NeuroSeg: automated cell detection and segmentation for in vivo two-photon Ca2+ imaging data](https://link.springer.com/article/10.1007/s00429-017-1545-5).Brain Structure and Function.2018.<br>
+12.[Fast and robust active neuron segmentation in two-photon calcium imaging using spatiotemporal deep learning](https://www.pnas.org/content/116/17/8554#ref-28).PNAS.2019.03.[github](https://github.com/soltanianzadeh/STNeuroNet).<br>
+13.[Automatic Neuron Detection in Calcium Imaging Data Using Convolutional Networks](https://papers.nips.cc/paper/6138-automatic-neuron-detection-in-calcium-imaging-data-using-convolutional-networks.pdf).NIPS.2016.[github](https://github.com/NoahApthorpe/ConvnetCellDetection).<br>
+14.[Benchmarking Spike Rate Inference in Population Calcium Imaging](https://www.sciencedirect.com/science/article/pii/S0896627316300733).2016.05.<br>
+15.[Deconvolution of calcium imaging data using marked point processes](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007650).2020.03.<br>
+16.[Accurate spike estimation from noisy calcium signals for ultrafast three-dimensional imaging of large neuronal populations in vivo](https://www.nature.com/articles/ncomms12190).2016.07.<br>
+17.[Detecting neural assemblies in calcium imaging data](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0606-4).2018.<br>
+18.[Fast Nonconvex Deconvolution of Calcium Imaging Data](https://arxiv.org/abs/1802.07380).[github](https://github.com/jovo/oopsi).<br>
+19.[Exact Spike Train Inference Via ℓ0 Optimization](https://arxiv.org/abs/1703.08644).<br>
+20.[On the use of calcium deconvolution algorithms in practical contexts](https://www.biorxiv.org/content/10.1101/871137v1.full).<br>
+21.[ABLE: An Activity-Based Level Set Segmentation Algorithm for Two-Photon Calcium Imaging Data](https://pubmed.ncbi.nlm.nih.gov/29085906/).<br>
+22.[Analysis pipelines for calcium imaging data](https://www.sciencedirect.com/science/article/pii/S0959438818300941#bib0230).<br>
+23.[An integrated calcium imaging processing toolbox for the analysis of neuronal population dynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005526#pcbi.1005526.s004).<br>
+24.[SCALPEL: EXTRACTING NEURONS FROM CALCIUM IMAGING DATA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269150/pdf/nihms-997323.pdf).<br>
+25.[Direct Estimation of Firing Rates from Calcium Imaging Data](https://arxiv.org/abs/1601.00364).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
