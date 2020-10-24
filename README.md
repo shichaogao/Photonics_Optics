@@ -54,6 +54,8 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 23.[An integrated calcium imaging processing toolbox for the analysis of neuronal population dynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005526#pcbi.1005526.s004).<br>
 24.[SCALPEL: EXTRACTING NEURONS FROM CALCIUM IMAGING DATA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269150/pdf/nihms-997323.pdf).<br>
 25.[Direct Estimation of Firing Rates from Calcium Imaging Data](https://arxiv.org/abs/1601.00364).<br>
+26.[A zero-inflated gamma model for deconvolved calcium imaging traces](https://arxiv.org/abs/2006.03737).<br>
+27.[EASE: EM-Assisted Source Extraction from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.03.25.007468v1.full).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
