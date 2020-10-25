@@ -22,6 +22,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 1.[Bright and photostable chemigenetic indicators for extended in vivo voltage imaging](https://science.sciencemag.org/content/365/6454/699).Science.2019.08.<br>
 2.[A Guide to Emerging Technologies for Large-Scale and Whole-Brain Optical Imaging of Neuronal Activity](https://sci-hub.tw/10.1146/annurev-neuro-072116-031458).The Annual Review of Neuroscience.2018.04.<br>
 3.[Epi-illumination SPIM for volumetric imaging with high spatial-temporal resolution](https://www.nature.com/articles/s41592-019-0401-3).Nature.2019.<br>
+4.[Simultaneous whole-animal 3D imaging of neuronal activity using light-field microscopy](https://www.nature.com/articles/nmeth.2964).Nature methhods.2014.<br>
 ### Observations in vivo
 1.[Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893.full).Science.2019.04.<br>
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
