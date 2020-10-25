@@ -30,6 +30,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 4.[Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted Calcium Indicator](https://www.sciencedirect.com/science/article/pii/S0896627320303986?via%3Dihub)<br>
 5.[Rapid mesoscale volumetric imaging of neural activity with synaptic resolution](https://www.nature.com/articles/s41592-020-0760-9).Nature Methods.2020.03.<br>
 6.[Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics](https://www.nature.com/articles/s41586-019-1166-7).Nature.2019.05.<br>
+7.[High-dimensional geometry of population responses in visual cortex](https://www.nature.com/articles/s41586-019-1346-5).Nature.2019.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](http://www.stat.columbia.edu/~liam/research/pubs/eftychios-chapter.pdf).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
