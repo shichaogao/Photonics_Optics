@@ -29,6 +29,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 3.[The need for calcium imaging in nonhuman primates: New motor neuroscience and brain-machine interfaces](https://www.sciencedirect.com/science/article/pii/S0014488616302333).Experimental Neurology.2017.01.<br>
 4.[Precision Calcium Imaging of Dense Neural Populations via a Cell-Body-Targeted Calcium Indicator](https://www.sciencedirect.com/science/article/pii/S0896627320303986?via%3Dihub)<br>
 5.[Rapid mesoscale volumetric imaging of neural activity with synaptic resolution](https://www.nature.com/articles/s41592-020-0760-9).Nature Methods.2020.03.<br>
+6.[Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics](https://www.nature.com/articles/s41586-019-1166-7).Nature.2019.05.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](http://www.stat.columbia.edu/~liam/research/pubs/eftychios-chapter.pdf).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
@@ -57,6 +58,9 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 25.[Direct Estimation of Firing Rates from Calcium Imaging Data](https://arxiv.org/abs/1601.00364).<br>
 26.[A zero-inflated gamma model for deconvolved calcium imaging traces](https://arxiv.org/abs/2006.03737).<br>
 27.[EASE: EM-Assisted Source Extraction from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.03.25.007468v1.full).<br>
+28.[Nonlinear Evolution via Spatially-Dependent Linear Dynamics for Electrophysiology and Calcium Data](https://nbdt.scholasticahq.com/article/13476-nonlinear-evolution-via-spatially-dependent-linear-dynamics-for-electrophysiology-and-calcium-data).<br>
+29.[Demixing Calcium Imaging Data in C. elegans via Deformable Non-negative Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_2).<br>
+30.[Localized semi-nonnegative matrix factorization (LocaNMF) of widefield calcium imaging data](https://journals.plos.org/ploscompbiol/article?rev=1&id=10.1371/journal.pcbi.1007791).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
