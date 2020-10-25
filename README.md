@@ -64,6 +64,8 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 30.[Localized semi-nonnegative matrix factorization (LocaNMF) of widefield calcium imaging data](https://journals.plos.org/ploscompbiol/article?rev=1&id=10.1371/journal.pcbi.1007791).<br>
 31.[Computational processing of neural recordings from calcium imaging data](https://www.sciencedirect.com/science/article/pii/S0959438818300977).<br>
 32.[Community-based benchmarking improves spike rate inference from two-photon calcium imaging data](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1006157).<br>
+33.[Cellpose: a generalist algorithm for cellular segmentation](https://www.biorxiv.org/content/10.1101/2020.02.02.931238v1.abstract).<br>
+34.[Suite2p: beyond 10,000 neurons with standard two-photon microscopy](https://www.biorxiv.org/content/10.1101/061507v2).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
