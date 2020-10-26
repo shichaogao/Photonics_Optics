@@ -37,6 +37,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 8.[Imaging volumetric dynamics at high speed in mouse and zebrafish brain with confocal light field microscopy](https://www.nature.com/articles/s41587-020-0628-7).Nature Biotech.2020.08.<br>
 9.[Integrated Neurophotonics: Toward Dense Volumetric Interrogation of Brain Circuit Activity—at Depth and in Real Time](https://www.sciencedirect.com/science/article/pii/S0896627320307674).Neuron.2020.10.<br>
 10.[High-throughput synapse-resolving two-photon fluorescence microendoscopy for deep-brain volumetric imaging in vivo](https://elifesciences.org/articles/40805).Elife.2019.01.<br>
+11.[Discovering structure in multi-neuron recordings through network modelling](https://discovery.ucl.ac.uk/id/eprint/10041247/).Stringer_thesis_UCL.2018.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](http://www.stat.columbia.edu/~liam/research/pubs/eftychios-chapter.pdf).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
