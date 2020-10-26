@@ -39,6 +39,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 9.[Integrated Neurophotonics: Toward Dense Volumetric Interrogation of Brain Circuit Activity—at Depth and in Real Time](https://www.sciencedirect.com/science/article/pii/S0896627320307674).Neuron.2020.10.<br>
 10.[High-throughput synapse-resolving two-photon fluorescence microendoscopy for deep-brain volumetric imaging in vivo](https://elifesciences.org/articles/40805).Elife.2019.01.<br>
 11.[Discovering structure in multi-neuron recordings through network modelling](https://discovery.ucl.ac.uk/id/eprint/10041247/).Stringer_thesis_UCL.2018.<br>
+12.[Imaging whole nervous systems: insights into behavior from worms to fish](https://www.nature.com/articles/s41592-018-0276-8).Nature methods.2018.12.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](http://www.stat.columbia.edu/~liam/research/pubs/eftychios-chapter.pdf).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
@@ -89,6 +90,18 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 47.[Efficient Position Decoding Methods Based on Fluorescence Calcium Imaging in the Mouse Hippocampus](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01281).<br>
 48.[Fast Active Set Methods for Online Spike Inference from Calcium Imaging](https://papers.nips.cc/paper/6505-fast-active-set-methods-for-online-spike-inference-from-calcium-imaging).<br>
 49.[OnACID: Online Analysis of Calcium Imaging Data in Real Time](http://papers.nips.cc/paper/6832-onacid-online-analysis-of-calcium-imaging-data-in-real-time).<br>
+50.[CAVE: An Open-Source Tool for Combined Analysis of Head-Mounted Calcium Imaging and Behavior in MATLAB](https://www.frontiersin.org/articles/10.3389/fnins.2018.00958/full).<br>
+51.[DeepCINAC: A Deep-Learning-Based Python Toolbox for Inferring Calcium Imaging Neuronal Activity Based on Movie Visualization](https://www.eneuro.org/content/7/4/ENEURO.0038-20.2020).<br>
+52.[CaSiAn: a Calcium Signaling Analyzer tool](https://academic.oup.com/bioinformatics/article/34/17/3052/4969837).<br>
+53.[CalciumGAN: A Generative Adversarial Network Model for Synthesising Realistic Calcium Imaging Data of Neuronal Populations](https://arxiv.org/abs/2009.02707).<br>
+54.[PeakCaller: an automated graphical interface for the quantification of intracellular calcium obtained by high-content screening](https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-017-0391-y).<br>
+55.[EZcalcium: Open-Source Toolbox for Analysis of Calcium Imaging Data](https://www.x-mol.com/paper/1270041021904351232).<br>
+56.[Multi-scale approaches for high-speed imaging and analysis of large neural populations](https://pubmed.ncbi.nlm.nih.gov/28771570/).<br>
+57.[Localized semi-nonnegative matrix factorization (LocaNMF) of widefield calcium imaging data](https://pubmed.ncbi.nlm.nih.gov/32282806/).<br>
+58.[Imaging and analysis of genetically encoded calcium indicators linking neural circuits and behaviors](https://synapse.koreamed.org/articles/1128240).<br>
+59.[Dynamic micro-circuit analysis for calcium imaging data](https://ieeexplore.ieee.org/document/8266091).<br>
+60.[CALIMA: The semi-automated open-source calcium imaging analyzer](https://pure.tue.nl/ws/portalfiles/portal/135385557/1_s2.0_S0169260718313701_main.pdf).<br>
+61.[A structured matrix factorization framework for large scale calcium imaging data analysis](https://arxiv.org/abs/1409.2903).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
@@ -96,6 +109,8 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 4.[MIN1PIPE](https://github.com/OtchyLab/MIN1PIPE).<br>
 5.[Widefield](https://github.com/cortex-lab/widefield).<be>
 
+[CNMF-E Lecture](https://cbmm.mit.edu/learning-hub/tutorials/computational-tutorial/calcium-imaging-data-cell-extraction).<br>
+[A Nice blog](https://ptrrupprecht.wordpress.com/a-blog-about-neurophysiology/).<br>
 [Adaptive Scanning Optical Microscope](https://www.thorlabs.com/images/Catalog/V19_07_Micros_Img.pdf)<br>
 [HelioScan-Galvo scanning](http://helioscan.github.io/HelioScan/).<br>
 [imageJ](https://imagej.nih.gov/ij/index.html).[ZhiHu wiki](https://zhuanlan.zhihu.com/c_1069243926476673024)<br>
