@@ -26,6 +26,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 5.[Optically sensing neural activity without imaging](https://www.nature.com/articles/s41566-020-0642-9).Nature photonics.2020 05.<br>
 6.[Head-mounted microendoscopic calcium imaging in dorsal premotor cortex of behaving rhesus macaque](https://www.biorxiv.org/content/10.1101/2020.04.10.996116v1.abstract).bioAxiv.2020.04.<br>
 7.[Fast scanning high optical invariant two-photon microscopy for monitoring a large neural network activity with cellular resolution](https://www.biorxiv.org/content/10.1101/2020.07.14.201699v1.abstract).bioAxiv.2020.07.<br>
+8.[High-speed volumetric imaging of neuronal activity in freely moving rodents](https://www.nature.com/articles/s41592-018-0008-0).Nature methods.2018.05.<br>
 ### Observations in vivo
 1.[Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893.full).Science.2019.04.<br>
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
@@ -86,6 +87,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 45.[EZcalcium: Open-Source Toolbox for Analysis of Calcium Imaging Data](https://www.frontiersin.org/articles/10.3389/fncir.2020.00025/full?report=reader).<br>
 46.[A Probabilistic Framework for Decoding Behavior From in vivo Calcium Imaging Data](https://www.frontiersin.org/articles/10.3389/fncir.2020.00019/full?report=reader).<br>
 47.[Efficient Position Decoding Methods Based on Fluorescence Calcium Imaging in the Mouse Hippocampus](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01281).<br>
+48.[Fast Active Set Methods for Online Spike Inference from Calcium Imaging](https://papers.nips.cc/paper/6505-fast-active-set-methods-for-online-spike-inference-from-calcium-imaging).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
