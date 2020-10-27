@@ -102,6 +102,9 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 59.[Dynamic micro-circuit analysis for calcium imaging data](https://ieeexplore.ieee.org/document/8266091).<br>
 60.[CALIMA: The semi-automated open-source calcium imaging analyzer](https://pure.tue.nl/ws/portalfiles/portal/135385557/1_s2.0_S0169260718313701_main.pdf).<br>
 61.[A structured matrix factorization framework for large scale calcium imaging data analysis](https://arxiv.org/abs/1409.2903).<br>
+62.[Detecting cells using non-negative matrix factorization on calcium imaging data](https://www.sciencedirect.com/science/article/pii/S0893608014000707).<br>
+63.[Bayesian spike inference from calcium imaging data](https://ieeexplore.ieee.org/abstract/document/6810293).<br>
+64.[A structured matrix factorization framework for large scale calcium imaging data analysis](https://arxiv.org/abs/1409.2903).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
