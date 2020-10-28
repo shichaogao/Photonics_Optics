@@ -40,6 +40,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 10.[High-throughput synapse-resolving two-photon fluorescence microendoscopy for deep-brain volumetric imaging in vivo](https://elifesciences.org/articles/40805).Elife.2019.01.<br>
 11.[Discovering structure in multi-neuron recordings through network modelling](https://discovery.ucl.ac.uk/id/eprint/10041247/).Stringer_thesis_UCL.2018.<br>
 12.[Imaging whole nervous systems: insights into behavior from worms to fish](https://www.nature.com/articles/s41592-018-0276-8).Nature methods.2018.12.<br>
+13.[Closed-loop all-optical interrogation of neural circuits in vivo](https://www.nature.com/articles/s41592-018-0183-z).Nature methods.2018.11.<br>
 ### Algorithms
 1.[Analysis of functional imaging data at single-cellular resolution](http://www.stat.columbia.edu/~liam/research/pubs/eftychios-chapter.pdf).Preprint.2018.<br>
 2.[Penalized matrix decomposition for denoising, compression, and improved demixing of functional imaging data](https://www.biorxiv.org/content/10.1101/334706v3).BioRxiv.2018.06.<br>
