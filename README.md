@@ -107,6 +107,9 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 63.[Bayesian spike inference from calcium imaging data](https://ieeexplore.ieee.org/abstract/document/6810293).<br>
 64.[A structured matrix factorization framework for large scale calcium imaging data analysis](https://arxiv.org/abs/1409.2903).<br>
 65.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).<br>
+66.[Robust Estimation of Neural Signals in Calcium Imaging](https://papers.nips.cc/paper/6883-robust-estimation-of-neural-signals-in-calcium-imaging).<br>
+67.[Automatic sorting system for large scale calcium imaging data](https://www.biorxiv.org/content/biorxiv/early/2017/11/09/215145.full.pdf).<br>
+68.[Video rate volumetric Ca2+ imaging across cortex using seeded iterative demixing (sid) microscopy](https://www.nature.com/articles/nmeth.4341).<br>
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
