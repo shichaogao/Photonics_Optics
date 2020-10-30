@@ -27,6 +27,12 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 6.[Head-mounted microendoscopic calcium imaging in dorsal premotor cortex of behaving rhesus macaque](https://www.biorxiv.org/content/10.1101/2020.04.10.996116v1.abstract).bioAxiv.2020.04.<br>
 7.[Fast scanning high optical invariant two-photon microscopy for monitoring a large neural network activity with cellular resolution](https://www.biorxiv.org/content/10.1101/2020.07.14.201699v1.abstract).bioAxiv.2020.07.<br>
 8.[High-speed volumetric imaging of neuronal activity in freely moving rodents](https://www.nature.com/articles/s41592-018-0008-0).Nature methods.2018.05.<br>
+9.[Kilohertz frame-rate two-photon tomography](https://www.nature.com/articles/s41592-019-0493-9).Nature methods.2019.06.<br>
+10.[A Guide to Emerging Technologies for Large-Scale and Whole-Brain Optical Imaging of Neuronal Activity](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-072116-031458).Annual reviews.2018.06.<br>
+11.[Volumetric two-photon imaging of neurons using stereoscopy (vTwINS)](https://www.nature.com/articles/nmeth.4226).Nature methods.2017.03.<br>
+12.[Video-rate volumetric functional imaging of the brain at synaptic resolution](https://www.nature.com/articles/nn.4516).Nature neuroscience.2017.02.<br>
+13.[Fast volumetric calcium imaging across multiple cortical layers using sculpted light](https://www.nature.com/articles/nmeth.4040).Nature methods.2016.10.<br>
+14.[Simultaneous Multi-plane Imaging of Neural Circuits](https://www.sciencedirect.com/science/article/pii/S0896627315010855#!).Neuron.2016.01.<br>
 ### Observations in vivo
 1.[Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893.full).Science.2019.04.<br>
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
@@ -111,6 +117,18 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 67.[Automatic sorting system for large scale calcium imaging data](https://www.biorxiv.org/content/biorxiv/early/2017/11/09/215145.full.pdf).<br>
 68.[Video rate volumetric Ca2+ imaging across cortex using seeded iterative demixing (sid) microscopy](https://www.nature.com/articles/nmeth.4341).<br>
 69.[ANSCOMBE MEETS HOUGH: NOISE VARIANCE STABILIZATION VIA PARAMETRIC MODEL ESTIMATION](http://www.marianotepper.com/papers/anscombe-meets-hough.pdf).<br>
+70.[Fast nonnegative deconvolution for spike train inference from population calcium imaging](https://journals.physiology.org/doi/full/10.1152/jn.01073.2009).<br>
+71.[Blind sparse deconvolution for inferring spike trains from fluorescence recordings](https://www.biorxiv.org/content/10.1101/156364v1.full).<br>
+72.[Bayesian spike inference from calcium imaging data](https://arxiv.org/abs/1311.6864).<br>
+73.[Population-Level Representation of a Temporal Sequence Underlying Song Production in the Zebra Finch](https://pubmed.ncbi.nlm.nih.gov/27196976/).<br>
+74.[Fast amortized inference of neural activity from calcium imaging data with variational autoencoders](https://papers.nips.cc/paper/6991-fast-amortized-inference-of-neural-activity-from-calcium-imaging-data-with-variational-autoencoders).<br>
+75.[Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5670033/).<br>
+76.[SIMA: Python software for analysis of dynamic fluorescence imaging data](https://www.frontiersin.org/articles/10.3389/fninf.2014.00080/full).<br>
+77.[Information-Theoretic Approach and Fundamental Limits of Resolving Two Closely Timed Neuronal Spikes in Mouse Brain Calcium Imaging](https://ieeexplore.ieee.org/document/8309355).<br>
+78.[CosMIC: A Consistent Metric for Spike Inference from Calcium Imaging](https://pubmed.ncbi.nlm.nih.gov/30021084/).<br>
+79.[Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions](https://papers.nips.cc/paper/4996-sparse-nonnegative-deconvolution-for-compressive-calcium-imaging-algorithms-and-phase-transitions).<br>
+
+81.
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
