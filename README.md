@@ -33,6 +33,7 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 12.[Video-rate volumetric functional imaging of the brain at synaptic resolution](https://www.nature.com/articles/nn.4516).Nature neuroscience.2017.02.<br>
 13.[Fast volumetric calcium imaging across multiple cortical layers using sculpted light](https://www.nature.com/articles/nmeth.4040).Nature methods.2016.10.<br>
 14.[Simultaneous Multi-plane Imaging of Neural Circuits](https://www.sciencedirect.com/science/article/pii/S0896627315010855#!).Neuron.2016.01.<br>
+15.[Simultaneous Optogenetics and Cellular Resolution Calcium Imaging During Active Behavior Using a Miniaturized Microscope](https://www.frontiersin.org/articles/10.3389/fnins.2018.00496/full).<br>
 ### Observations in vivo
 1.[Spontaneous behaviors drive multidimensional, brainwide activity](https://science.sciencemag.org/content/364/6437/eaav7893.full).Science.2019.04.<br>
 2.[Deciphering Brain Function by Miniaturized Fluorescence Microscopy in Freely Behaving Animals](https://www.frontiersin.org/articles/10.3389/fnins.2020.00819/full).Frontiers in Neuroscience.2020.08.<br>
@@ -127,8 +128,11 @@ Biomedical optical Imaging,neuromorphic photonic signal processing,quantum photo
 77.[Information-Theoretic Approach and Fundamental Limits of Resolving Two Closely Timed Neuronal Spikes in Mouse Brain Calcium Imaging](https://ieeexplore.ieee.org/document/8309355).<br>
 78.[CosMIC: A Consistent Metric for Spike Inference from Calcium Imaging](https://pubmed.ncbi.nlm.nih.gov/30021084/).<br>
 79.[Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions](https://papers.nips.cc/paper/4996-sparse-nonnegative-deconvolution-for-compressive-calcium-imaging-algorithms-and-phase-transitions).<br>
+80.[Inferring Neuronal Dynamics from Calcium Imaging Data Using Biophysical Models and Bayesian Inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004736).<br>
+81.[An integrative approach for analyzing hundreds of neurons in task performing mice using wide-field calcium imaging](https://www.nature.com/articles/srep20986).<br>
 
-81.
+
+1.[Large-scale automatic reconstruction of neuronal processes from electron microscopy images](https://www.sciencedirect.com/science/article/abs/pii/S1361841515000286).br
 ### Tools
 1.[Suite2p](https://github.com/MouseLand/suite2p).[Docs](https://suite2p.readthedocs.io/en/latest/index.html).[Lectures](https://www.youtube.com/watch?v=HpL5XNtC5wU&list=PLutb8FMs2QdNqL4h4NrNhSHgLGk4sXarb&index=1)<br>
 2.[A deep learning toolbox for noise-optimized, generalized spike inference from calcium imaging data](https://www.biorxiv.org/content/10.1101/2020.08.31.272450v1).Biorxiv.2020.09.<br>
